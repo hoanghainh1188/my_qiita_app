@@ -1,0 +1,4 @@
+{
+    "qiita_api_endpoint": "https://qiita.com/api/v2",
+    "qiita_access_token": "YOUR_QIITA_ACCESS_TOKEN"
+}
